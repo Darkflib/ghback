@@ -4,7 +4,9 @@ I assume you are on a Linux or Mac box as I have no fscking clue how to do this 
 
 1. Clone the repo
 
+```bash
 git clone https://github.com/darkflib/stars.git
+```
 
 2. Install the dependencies
 
