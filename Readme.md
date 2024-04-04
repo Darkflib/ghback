@@ -11,7 +11,7 @@ git clone https://github.com/darkflib/ghback.git
 2. Install the dependencies
 
 ```bash
-cd stars
+cd ghback
 
 python3 -m venv venv   # Create a virtual environment
 
