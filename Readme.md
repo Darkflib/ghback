@@ -23,7 +23,7 @@ pip install -r requirements.txt  # Install the dependencies
 3. Setup the .env file
 
 ```bash
-cp .env.example .env
+cp .env-example .env
 ```
 
 Edit the .env file and set the values for the environment variables.
